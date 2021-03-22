@@ -1,6 +1,6 @@
 # Traits
 
-This is just a simple little project that tries to replicate the traits system that Ruse uses in Typescript
+This is just a simple little project that tries to replicate the traits system that Rust uses in Typescript
 
 # How it works
 
