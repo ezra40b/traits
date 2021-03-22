@@ -1,0 +1,23 @@
+{
+  "name": "traits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist\\index.js",
+  "scripts": {
+    "start": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ezra40b/traits.git"
+  },
+  "author": "Ezra Goldner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ezra40b/traits/issues"
+  },
+  "homepage": "https://github.com/ezra40b/traits#readme",
+  "types": "dist/index.d.ts",
+  "files": [
+    "/dist"
+  ]
+}
